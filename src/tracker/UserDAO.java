@@ -167,8 +167,8 @@ public class UserDAO {
 	
 	public void makeConnection() {
 		String url = "jdbc:mysql://localhost:3306/tracker";
-		String user = "root";
-		String password = "Mommyof5SQL!";
+		String user = "klevy";
+		String password = "KNL@736Foster";
 
 		try {
 

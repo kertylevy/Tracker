@@ -19,13 +19,14 @@ import javax.swing.JTextField;
  * TEST
  * @author Kerty Levy
  * TEST 2
+ * This is a test
  */
 
 //Renamed class and Constructor to start with capital.
 public class LoginUserPanel extends JPanel {
 
 	//String[] User = {"userID", "password"};   //don't need this?
-	
+
 	JLabel loginInstructions = new JLabel("Please enter your user ID and password to access the tracker system");
 	JLabel userIDLabel = new JLabel ("UserID");
 	JTextField userIDText = new JTextField(50);
